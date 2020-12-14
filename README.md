@@ -3,3 +3,4 @@
 ![](image/Translate_Specs1.jpg)
 ![](image/Translate.jpg)
 ![](image/Translate_Specs2.jpg)
+![](image/Translate_Specs3.jpg)
